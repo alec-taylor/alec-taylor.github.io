@@ -1,0 +1,10 @@
+h1{color: navy; font-size: 250%; font-style: bold; }
+h2{font-size: 150%; color: red; font-style: italic;}
+h3{font-size: 125%; color: black; font-style: bold;}
+h4{font-size: 125%; color: black; font-style: bold;}
+
+body{
+	background: turquoise;
+	color: dark blue;
+	font-size: 14pt;
+font-family: 'Roboto Slab', serif;}

@@ -1,0 +1,14 @@
+h1{color: navy; font-size: 250%; font-style: bold; }
+h2{color: black; font-size: 125%; font-style: bold; }
+
+body{
+	background: lightgrey;
+	color: dark blue;
+	font-size: 14pt;
+font-family: 'Roboto Slab', serif;}
+
+nav li{border: 2px solid black;
+	display: inline-block; 
+	padding: 20px; 
+	margin: 20px; 
+background: white; }
